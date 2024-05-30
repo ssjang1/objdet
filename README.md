@@ -22,4 +22,8 @@ pip install objdet
 ---
 
 ### Installation
-- 'pip install objdet'
+- `pip install objdet`
+
+```python
+pip install objdet
+```
