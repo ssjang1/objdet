@@ -5,7 +5,6 @@ import torch.nn as nn
 
 from objdet.YOLOV8.nn.modules.conv import Conv
 from objdet.YOLOV8.nn.modules.block import DFL
-
 from objdet.YOLOV8.utils.tal import make_anchors, dist2bbox
 
 class Detect(nn.Module):
