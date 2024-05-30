@@ -23,7 +23,8 @@ pip install objdet
 
 ### comment
 <details>
-<summary>...<summary>
+<summary>Beginner's intention
+</summary>
 - `It's my first pypi package`
 - `As I delve deeper into model architectures, I plan to expand the collection of objdet models.`
 </details>
